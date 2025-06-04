@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mektep.Sozdik</string>
+
+    <!-- Navigation -->
+    <string name="dictionary">Словарь</string>
+    <string name="favorites">Избранное</string>
+    <string name="search">Поиск</string>
+
+    <!-- Languages -->
+    <string name="kazakh">Қазақша</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+
+    <!-- Subjects -->
+    <string name="mathematics">Математика</string>
+    <string name="physics">Физика</string>
+    <string name="biology">Биология</string>
+    <string name="chemistry">Химия</string>
+    <string name="computer_science">Информатика</string>
+    <string name="geography">География</string>
+    <string name="natural_science">Естествознание</string>
+
+    <!-- Common -->
+    <string name="back">Назад</string>
+    <string name="share">Поделиться</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="word_of_the_day">Слово дня</string>
+    <string name="powered_by_neo">Powered by Neo</string>
+
+    <!-- Error messages -->
+    <string name="loading">Загрузка...</string>
+    <string name="no_favorites">Пока нет избранных слов</string>
+    <string name="term_not_found">Термин не найден</string>
+</resources>
